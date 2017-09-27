@@ -4,12 +4,12 @@ return array(
     'URL_CASE_INSENSITIVE'  =>  false,
 
     'DB_TYPE'               =>  'mysql',     // 数据库类型
-    'DB_HOST'               =>  '139.129.109.196', // 服务器地址
-    'DB_NAME'               =>  'newhole',          // 数据库名
-    'DB_USER'               =>  'hole',      // 用户名
-    'DB_PWD'                =>  'holeeloh',          // 密码
-    'DB_PORT'               =>  '3306',        // 端口
-    'DB_PREFIX'             =>  'yxblog_',    // 数据库表前缀
+    'DB_HOST'               =>  '', // 服务器地址
+    'DB_NAME'               =>  '',          // 数据库名
+    'DB_USER'               =>  '',      // 用户名
+    'DB_PWD'                =>  '',          // 密码
+    'DB_PORT'               =>  '',        // 端口
+    'DB_PREFIX'             =>  '',    // 数据库表前缀
     'DB_PARAMS'             =>  array(), // 数据库连接参数    
     'DB_DEBUG'              =>  TRUE, // 数据库调试模式 开启后可以记录SQL日志
     'DB_FIELDS_CACHE'       =>  true,        // 启用字段缓存
